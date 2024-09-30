@@ -1,6 +1,6 @@
     import java.util.*;
 
-    // Graph.java
+
     public class Graph {
         private int V; // Number of vertices
         private List<List<Edge>> adjList; // Adjacency list to store edges
